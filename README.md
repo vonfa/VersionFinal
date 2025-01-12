@@ -9,3 +9,5 @@ This version should appear in the group's GitHub repository tagged with the tag 
 The .sql file to create the database
 The #C project with the client
 The .c file with the server
+# Enlace Video
+https://youtu.be/DAFrYhsIkAo
